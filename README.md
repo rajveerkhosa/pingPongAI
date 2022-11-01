@@ -7,3 +7,5 @@ NEAT-Python
 PyGame
 
 To run, compile and run tutorials.py
+
+Tutorial Followed: https://www.youtube.com/watch?v=2f6TmKm7yx0&ab_channel=TechWithTim
